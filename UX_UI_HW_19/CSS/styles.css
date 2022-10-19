@@ -1,0 +1,64 @@
+div {
+    display: inline-block;
+}
+
+.flexContainer {
+    display: flex;
+}
+
+.mySkills {
+    width: 33%;
+    padding: 25;
+    margin: 0; 
+}
+
+nav {
+    background-color: rgb(37, 37, 37);
+    list-style-type: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 25;
+    margin: 0; 
+}
+
+.heroImg {
+    background-color: rgb(37, 37, 37);
+    height: 600px;
+    padding: 20px;
+}
+
+.hero1{
+    color: white;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.logo {
+    background-image: url(/Users/brendanholleytg/Documents/GitHub/UX_UI_HW_17/images/Bb_3D_logo.png);
+    width: 23%;
+    padding: 1%;
+}
+
+footer {
+    background-color: rgb(37, 37, 37);
+    list-style-type: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 10px;
+    margin: 20px; 
+}
+
+.inline-block li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.footer li {
+    display: inline-block;
+    vertical-align: top;
+    list-style-type: none;
+    padding: 25px;
+}
